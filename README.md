@@ -13,7 +13,7 @@
 
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=vscode,github,python" />
+  <img src="https://skillicons.dev/icons?i=vscode,portugol,c,python" />
 </div>
 
 <h2 align="center" >⚡Stats⚡</h2>
