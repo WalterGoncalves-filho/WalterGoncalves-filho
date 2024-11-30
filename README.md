@@ -40,6 +40,12 @@
 </h1>
 
 
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/waltergoncalvesfilho/)](https://www.linkedin.com/in/waltergoncalvesfilho/)
+
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:waltergoncalves.bfilho@gmai.com)](mailto:waltergoncalves.bfilho@gmai.com)
 
 
 
