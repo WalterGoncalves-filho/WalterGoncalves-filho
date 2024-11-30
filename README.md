@@ -4,16 +4,13 @@
 </h1>
 
 ## Sobre mim
-<div  align="center" >
-- 🔭 Atualmente estou Cursando Sistemas de Informação na FAMETRO UNIDADE LESTE📗📚
-  <br>
-- 📕📚 Também estudo no INSTITUTO FEDERAL DO AMAZONAS UNIDADE LESTE curso de Técnico em Informática
-  <br>
-- 🖥💻 Ja participei de uma maratoana Competitiva de Programação da América Latina onde o 
-  IFAM(INSTITUTO FEDERAL DO AMAZONAS) fez parceria com a UFAM(UNIVERSIDADE FEDERAL DO AMAZONAS) .
-</div>
 
-<br>
+- 🔭 Atualmente estou Cursando Sistemas de Informação na FAMETRO UNIDADE LESTE📗📚
+
+- 📕📚 Também estudo no INSTITUTO FEDERAL DO AMAZONAS UNIDADE LESTE curso de Técnico em Informática
+- 🖥💻 Ja participei de uma maratoana Competitiva de Programação da América Latina onde o IFAM
+- (INSTITUTO FEDERAL DO AMAZONAS) fez parceria com a UFAM(UNIVERSIDADE FEDERAL DO AMAZONAS) .
+
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=vscode,c,java,python" />
 </div>
