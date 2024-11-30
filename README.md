@@ -12,14 +12,12 @@
 - (INSTITUTO FEDERAL DO AMAZONAS) fez parceria com a UFAM(UNIVERSIDADE FEDERAL DO AMAZONAS) .
 
 <h2 align="center" > status ⚡</h2> 
-
 <br>
 <div align="center" >
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=WalterGoncalves-filho&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterGoncalves-filho&hide_progress=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=WalterGoncalves-filho&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
