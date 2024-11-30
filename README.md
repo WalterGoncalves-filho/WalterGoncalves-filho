@@ -33,17 +33,20 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=WalterGoncalves-filho
 &show_icons=true" />
+</picture>
+</div>
+
 
 
 
 ## Principais Linguagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterGoncalves-filho&hide_progress=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterGoncalves-filho&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterGoncalves-filho&hide_progress=true)
 
 # Onde me encontrar!!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/waltergoncalvesfilho/)](https://www.linkedin.com/in/waltergoncalvesfilho/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:waltergoncalves.bfilho@gmail.com)](mailto:waltergoncalves.bfilho@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/waltergoncalves.filho/)](https://www.instagram.com/waltergoncalves.filho/)
+
 
