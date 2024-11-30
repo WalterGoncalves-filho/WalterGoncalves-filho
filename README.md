@@ -3,12 +3,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=olá!+👋;+me+chamo+Walter!;" />
 </h1>
 
+## Sobre mim
 <div  align="center" >
-- 🔭 Atualmente estou Cursando Sistemas de Informação na FAMETRO UNIDADE LESTE📗📚 ...
+- 🔭 Atualmente estou Cursando Sistemas de Informação na FAMETRO UNIDADE LESTE📗📚
   <br>
-- 📕📚 Também estudo no INSTITUTO FEDERAL DO AMAZONAS UNIDADE LESTE curso de Técnico em Informática ...
+- 📕📚 Também estudo no INSTITUTO FEDERAL DO AMAZONAS UNIDADE LESTE curso de Técnico em Informática
   <br>
-- 🖥💻 Ja participei de uma maratoana Competitiva de Programação da América Latina onde o IFAM(INSTITUTO FEDERAL DO AMAZONAS) fez parceria com a UFAM(UNIVERSIDADE FEDERAL DO AMAZONAS) ...
+- 🖥💻 Ja participei de uma maratoana Competitiva de Programação da América Latina onde o 
+  IFAM(INSTITUTO FEDERAL DO AMAZONAS) fez parceria com a UFAM(UNIVERSIDADE FEDERAL DO AMAZONAS) .
 </div>
 
 <br>
