@@ -35,7 +35,7 @@
 
 
 
-## Principais Linguagens
+ <h2 align="center" > Principais Linguagens </h2> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterGoncalves-filho&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterGoncalves-filho&hide_progress=true)
 
