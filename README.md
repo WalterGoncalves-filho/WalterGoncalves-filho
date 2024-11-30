@@ -8,7 +8,7 @@
 - 🔭 Atualmente estou Cursando Sistemas de Informação na FAMETRO UNIDADE LESTE📗📚
 
 - 📕📚 Também estudo no INSTITUTO FEDERAL DO AMAZONAS UNIDADE LESTE curso de Técnico em Informática
-- 🖥💻 Ja participei de uma maratoana Competitiva de Programação da América Latina onde o IFAM
+- 🖥💻 Ja participei de uma maratona Competitiva de Programação da América Latina onde o IFAM
 - (INSTITUTO FEDERAL DO AMAZONAS) fez parceria com a UFAM(UNIVERSIDADE FEDERAL DO AMAZONAS) .
 
 <div align="center" >
