@@ -11,10 +11,6 @@
 - 🖥💻 Ja participei de uma maratona Competitiva de Programação da América Latina onde o IFAM
 - (INSTITUTO FEDERAL DO AMAZONAS) fez parceria com a UFAM(UNIVERSIDADE FEDERAL DO AMAZONAS) .
 
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=vscode,c,java,python" />
-</div>
-
 <h2 align="center" > status ⚡</h2> 
 
 <br>
