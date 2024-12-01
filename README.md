@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=olá!+👋;+me+chamo+Walter!;" />
 </h1>
 
-# 💫 Sobre Min:
+# 💫 Sobre Mim:
 - 🔭 Atualmente estou Cursando Sistemas de Informação na FAMETRO UNIDADE LESTE📗📚
 - 📕📚 Também estudo no INSTITUTO FEDERAL DO AMAZONAS UNIDADE LESTE curso de Técnico em Informática
 - 🖥💻 Ja participei de uma maratona Competitiva de Programação da América Latina onde o IFAM
