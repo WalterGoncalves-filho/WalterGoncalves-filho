@@ -18,13 +18,38 @@
 
 
 # 💻 Tecnologias:
+
 <div align="left" >
   <img src="https://skillicons.dev/icons?i=vscode,c,java,python,git,github" />
 </div>
 
-![Vs Code](https://img.shields.io/badge/VsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logoColor=ffdd54) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logoColor=white)
- 
- 
+
+<div style="margin: 100px;">
+  <div align="left" >
+  
+  ![Vs Code](https://img.shields.io/badge/VsCode-0078D4?style=plastic)
+  ![C](https://img.shields.io/badge/C-%2300599C?style=plastic) 
+  ![Java](https://img.shields.io/badge/java-%23ED8B00?style=plastic) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic) 
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic)
+  ![GitHub](https://img.shields.io/badge/github-%23121011?style=plastic)
+  
+  </div> 
+</div>
+
+
+<!--
+<div style="display: inline-block; margin-bottom: 10px; padding: 10px 15px; background-color: #007bff; color: white; border-radius: 12px;">
+ <img src="https://img.shields.io/badge/VsCode-0078D4?style=plastic"/> </div>
+<div style="display: inline-block; margin-bottom: 10px; padding: 10px 15px; background-color: #007bff; color: white; border-radius: 12px;">
+ <img src="https://img.shields.io/badge/C-%2300599C?"/> </div> 
+<div style="display: inline-block; padding: 10px 15px; background-color: #007bff; color: white; border-radius: 12px;">
+ <img src="https://img.shields.io/badge/java-%23ED8B00?" /> </div>
+-->
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WalterGoncalves-filho&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=WalterGoncalves-filho&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
