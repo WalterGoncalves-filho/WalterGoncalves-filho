@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,c,java,python,git,github" />
 </div>
 
-
+<!--
 <div style="margin: 100px;">
   <div align="left" >
   
@@ -35,7 +35,7 @@
   
   </div> 
 </div>
-
+-->
 
 <!--
 <div style="display: inline-block; margin-bottom: 10px; padding: 10px 15px; background-color: #007bff; color: white; border-radius: 12px;">
