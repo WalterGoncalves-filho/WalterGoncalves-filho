@@ -55,9 +55,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterGoncalves-filho&show_icons=true&theme=neon&hide_border=false)
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterGoncalves-filho&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
-
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WalterGoncalves-filho&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=WalterGoncalves-filho&theme=dracula&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
