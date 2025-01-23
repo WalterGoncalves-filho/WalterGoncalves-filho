@@ -13,6 +13,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waltergoncalves.filho)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waltergoncalvesfilho)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white&)](mailto:waltergoncalves.bfilho@gmail.com) 
+[![WhatsApp](https://img.shields.io/badge/_-WhatsApp-%2325d366?style=flat-square&logo=whatsapp&labelColor=white)](https://wa.me/message/3W4QKV4C7B7NN1)
+
 
 
 
