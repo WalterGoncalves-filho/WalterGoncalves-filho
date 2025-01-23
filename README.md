@@ -21,9 +21,9 @@
 
 # 💻 Tecnologias:
 
-<div align="left" >
+<p align="left" >
   <img src="https://skillicons.dev/icons?i=vscode,c,java,python,git,github" />
-</div>
+</p>
 
 <!--
 <div style="margin: 100px;">
