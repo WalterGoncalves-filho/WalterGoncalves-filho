@@ -11,7 +11,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waltergoncalves.filho)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%245b6f2.svg?style=flat-square&logo=logmein&logoColor=white)](https://linkedin.com/in/waltergoncalvesfilho)
+[![Threads](https://img.shields.io/badge/_-Threads-black?style=flat-square&logo=threads&logoColor=white&labelColor=black)](https://www.threads.net/@waltergoncalves.filho)
+[![LinkedIn](https://img.shields.io/badge/_-LinkedIn-%2345b6f2?style=flat-square&logo=logmein&logoColor=%2345b6f2&labelColor=white)](https://linkedin.com/in/waltergoncalvesfilho)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white&)](mailto:waltergoncalves.bfilho@gmail.com) 
 [![WhatsApp](https://img.shields.io/badge/_-WhatsApp-%2325d366?style=flat-square&logo=whatsapp&labelColor=white)](https://wa.me/message/3W4QKV4C7B7NN1)
 
